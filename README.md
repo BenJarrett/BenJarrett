@@ -2,8 +2,6 @@
 
 **`Full Stack Software Engineer`**
 
-Dedicated, efficient, and always learning. When I love something, I am all in. I dive headfirst and learn everything there is to learn about it. This is something that I love about software development. There is an infinite amount of knowledge and skills that I will always be working toward learning and applying to not just work, but life as well.  I am seeking an opportunity to be a part of a team that loves to learn, better themselves, and to help each other along the way.
-
 ---
 
 ### 🧰 Languages and Tools
