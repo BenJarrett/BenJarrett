@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Dedicated, efficient, and always learning. When I love something, I am all in. I dive headfirst and learn everything there is to learn about it. This is something that I love about software development. There is an infinite amount of knowledge and skills that I will always be working toward learning and applying to not just work, but life as well.  I am seeking an opportunity to be a part of a team that loves to learn, better themselves, and to help each other along the way.
 
 ---
 
