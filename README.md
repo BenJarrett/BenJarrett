@@ -13,6 +13,7 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" />
+<img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" />
