@@ -12,6 +12,8 @@
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://iconduck.com/icons/27153/c-sharp-c" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" />
