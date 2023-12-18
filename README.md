@@ -1,5 +1,5 @@
 # 🏄‍♂️ Ben Jarrett 
-**`Full Stack Software Engineer`**
+**`Software Engineer`**
 
 
 <br />
