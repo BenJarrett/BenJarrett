@@ -14,7 +14,7 @@
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F336116%2Fgoogle-cloud&psig=AOvVaw0TpI2sKrGc24ew5H-pOw0y&ust=1702996134688000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCLDV1ZGZmYMDFQAAAAAdAAAAABAa" />
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27430%2Fgoogle-cloud&psig=AOvVaw1bFQWZbRWxzXtC4aXnSYbW&ust=1702996789669000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPj8icebmYMDFQAAAAAdAAAAABAR" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
